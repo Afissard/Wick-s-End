@@ -21,6 +21,6 @@ A coop partie game to reach the end of a procedural dungeon.
 
 - [ ] create a true server that run 24/7
 
-## Documentation & Contribution
+## Documentation
 
-Nothing for now, work in progress.
+- A basic TCP/IP serveur tutorial found on [medium](https://okanexe.medium.com/the-complete-guide-to-tcp-ip-connections-in-golang-1216dae27b5a)
