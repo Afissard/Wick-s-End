@@ -22,7 +22,7 @@
 
 ### Introduction
 
-In this game you must reach the end of the level with the best score possible. Theses score are then publish to a server hosting leader board.
+You are a little candle, alone in the darkness of a mysterious dungeon. You must keep the light on but also enough wax in order to survive. Your goal is to lit all the lamp of the level in order access the next one.
 
 ### Background
 
@@ -30,15 +30,15 @@ Is there any story ?
 
 ### Description
 
-Description of the game (gameplay, ambiance, etc)
+The ambiance is oppressing, the player must fear the dark.
 
 ### Key features
 
-A list of the key feature of the game
+Fire consume overtime the wick and wax of the candle, this is the player life so he must eat wax to grow and keep exploring. When near to death the candle shines less, reducing the player view range.
 
 ### Genre
 
-???
+Roguelike (maybe not turn base)
 
 ### Platform(s)
 
@@ -48,6 +48,7 @@ PC (Windows, Linux, maybe Mac)
 
 I'm not an artist but I may add some concept schemas.
 
+<!-- TODO -->
 ## In depth Design
 
 More in depth design choice about :
